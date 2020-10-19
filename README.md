@@ -4,7 +4,7 @@ A school project
 ## Main branch
 The main branch must be running fine all the time. Do not commit to the main branch unless it's a trivial change (e.g. README changes) or absolutely necessary. Always create a new pull request if you are working on an issue and only merge it after it has been approved.
 
-### Commits from Visual Studio
+#### Commits from Visual Studio
 Do not commit project files created by Visual Studio. Only commit source files. 
 
 ## Project management
